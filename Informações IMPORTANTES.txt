@@ -1,0 +1,17 @@
+EQUIPE:
+- Adriana Raffaella dos Santos Fonseca (2315080067)
+- Henrique da Silva Furtado (2315080009)
+
+É necessário importar as bibliotecas que estão na pasta lib.
+
+Logins pré-cadastrados
+
+    Funcionário (Administrador):
+    - CPF: 2315080067
+    - Senha: 123
+
+    Professor:
+    - CPF: 2315080009
+    - Senha: 7061
+
+As senhas são valores inteiros.
