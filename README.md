@@ -1,5 +1,3 @@
-Este código implementa um sistema de gerenciamento de usuários e empréstimos de livros, com uma interface gráfica baseada no **Swing** do Java. Ele permite o cadastro e gerenciamento de funcionários, professores, alunos, livros, além de realizar empréstimos e devoluções de exemplares. A seguir, um resumo do funcionamento do código para ser usado no arquivo README do projeto no GitHub:
-
 ### Resumo de Funcionamento:
 
 1. **Gerenciamento de Usuários:**
